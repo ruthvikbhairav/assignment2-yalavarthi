@@ -15,5 +15,5 @@ un-ordered-list
     * vegetables
  * return back to home   
  ------------------------
-Use ![text](Pictures/sachin.jpg)
+Use ![pictures](Pictures/sachin.jpg).
  **[page](AboutMe.md)** local to the repo.
