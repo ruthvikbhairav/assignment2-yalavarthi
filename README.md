@@ -6,3 +6,11 @@ Directions
 4. go straight line forward
 
 ******
+un-ordered-list
+* GO to hyvee
+* take groceries
+    * rice
+    * plum cake
+    * chicken 
+    * vegetables
+ * return back to home   
