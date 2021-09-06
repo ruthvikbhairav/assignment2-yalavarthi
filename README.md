@@ -1,4 +1,4 @@
----- ***** -------
+ *****
 Directions
 * going from maryville to kansas city
     * left to park avenue
