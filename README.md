@@ -1,5 +1,7 @@
-# assignment2-yalavarthi
-## ruthvik bhairav
-my **favorite** place is **chicago**
-beause of highly **developed** and  POSCHE **environment**
+---- ***** -------
+Directions
+* going from maryville to kansas city
+    * left to park avenue
+    * from there take right at illinois route
+* go straight line forward
 
