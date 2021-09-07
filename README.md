@@ -15,5 +15,5 @@ un-ordered-list
     * vegetables
  * return back to home   
  ------------------------
-Use ![pictures]([Google](https://www.google.com/sachin.jpg).
+![text](images/delete.gif).
  **[page](AboutMe.md)** local to the repo.
