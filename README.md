@@ -22,8 +22,8 @@ un-ordered-list
     * vegetables
  * return back to home   
  ------------------------
-**![sachin ] (C:\Users\S545261\Desktop)**.
- **[page](AboutMe.md)** local to the repo.
+![sachin ] (C:\Users\S545261\Desktop).
+ [page](AboutMe.md)** local to the repo.
 
 
  *******
@@ -35,3 +35,6 @@ un-ordered-list
   | pepsi |  maryville | 50$ |<br>
   | limca | new york   | 25$ |<br>
   | frooti| illinois   |40$|<br>
+
+*****************
+
