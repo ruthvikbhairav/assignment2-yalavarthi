@@ -15,7 +15,7 @@ un-ordered-list
     * vegetables
  * return back to home   
  ------------------------
-![sachin ] (C:\Users\S545261\Desktop).
+**![sachin ] (C:\Users\S545261\Desktop)**.
  **[page](AboutMe.md)** local to the repo.
 
 
