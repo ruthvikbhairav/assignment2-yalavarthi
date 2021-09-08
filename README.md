@@ -22,8 +22,8 @@ un-ordered-list
     * vegetables
  * return back to home   
  ------------------------
-[Delete](C:\Users\S545261\Desktop\web-apps\sachin.jpg).
- [page](AboutMe.md) (C:\Users\S545261\Desktop\web-apps\sachin.jpg)** local to the repo.
+![Delete](C:\Users\S545261\Desktop\web-apps\sachin.jpg).
+ [page](AboutMe.md) ** local to the repo.
 
 
  *******
@@ -37,4 +37,5 @@ un-ordered-list
   | frooti| illinois   |40$|<br>
 
 *****************
+
 
