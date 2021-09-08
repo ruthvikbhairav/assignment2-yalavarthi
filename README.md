@@ -22,7 +22,7 @@ un-ordered-list
     * vegetables
  * return back to home   
  ------------------------
-![Delete](sachin.jpg).
+![Delete](C:\Users\S545261\Documents\GitHub\assignment2-yalavarthi\sachin.jpg).
  [page](AboutMe.md) ** local to the repo.
 
 
@@ -38,4 +38,13 @@ un-ordered-list
 
 *****************
 
+## Pithy Quotes
+
+As Grace Hopper said:
+
+> We're living the future so the present is our past.
+
+> I’ve always been more interested
+
+---
 
