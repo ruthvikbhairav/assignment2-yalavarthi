@@ -22,7 +22,7 @@ un-ordered-list
     * vegetables
  * return back to home   
  ------------------------
-![Delete](Csachin.jpg).
+![Delete](sachin.jpg).
  [page](AboutMe.md) ** local to the repo.
 
 
