@@ -1,3 +1,10 @@
+ # yalavarthi_assignment2
+ # ruthvik bhairav yalavarthi
+ # hyderabad
+ > hyderabad is the capital city of telangana. It has many tourists places like salarjang museum
+   charminar and also multiple diversity of cultures
+
+
  *****
 Directions
  1. > going from maryville to kansas city 
