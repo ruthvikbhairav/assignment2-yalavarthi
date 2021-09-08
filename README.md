@@ -23,4 +23,4 @@ un-ordered-list
  food-products
  1. the drinks are important to health<br>
  2.  also drinks keep body clean<br>
-(:item/:location:/price:)
+  :item/:location:/price:
