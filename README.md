@@ -47,4 +47,31 @@ As Grace Hopper said:
 > I’ve always been more interested
 
 ---
+## Code Fencing
 
+*Aho–Corasick algorithm* form *String Processing* 
+
+> In computer science, the Aho–Corasick algorithm is a string-searching algorithm invented by Alfred V. Aho and Margaret J. Corasick. 
+> It is a kind of dictionary-matching algorithm that locates elements of a finite set of strings (the "dictionary") within an input text. 
+> It matches all strings simultaneously. The complexity of the algorithm is linear in the length of the strings plus the length of the searched text plus the number of output matches. 
+> Note that because all matches are found, there can be a quadratic number of matches if every substring matches (e.g. dictionary = a, aa, aaa, aaaa and input string is aaaa).
+
+Aho–Corasick algorithm [Reference_link](https://en.wikipedia.org/wiki/Aho%E2%80%93Corasick_algorithm)
+
+code for Aho–Corasick Algorithms
+
+void add_string(string const& s) {
+    int v = 0;
+    for (char ch : s) {
+        int c = ch - 'a';
+        if (trie[v].next[c] == -1) {
+            trie[v].next[c] = trie.size();
+            trie.emplace_back();
+        }
+        v = trie[v].next[c];
+    }
+    trie[v].leaf = true;
+}
+
+
+Aho–Corasick algorithm [Code_link](https://cp-algorithms.com/string/aho_corasick.html)
