@@ -25,4 +25,5 @@ un-ordered-list
  2.  also drinks keep body clean<br>
   | item | location | price |<br>
   | ---- | ---------|-------|<br>
-  |pepsi| maryville| 50$|<br>
+  | pepsi |  maryville | 50$ |<br>
+  | limca | new york   | 25$ |<br>
