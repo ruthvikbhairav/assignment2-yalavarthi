@@ -27,3 +27,4 @@ un-ordered-list
   | ---- | ---------|-------|<br>
   | pepsi |  maryville | 50$ |<br>
   | limca | new york   | 25$ |<br>
+  | frooti| illinois   |40$|<br>
