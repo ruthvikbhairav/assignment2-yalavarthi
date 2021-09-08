@@ -31,7 +31,7 @@ un-ordered-list
  1. the drinks are important to health<br>
  2.  also drinks keep body clean<br>
   | item | location | price |<br>
-  | ------| ---------|-------| 
-  | pepsi |  maryville | 50$ |
+  | ------| ---------|-------| <br>
+  | pepsi |  maryville | 50$ |<br>
   | limca | new york   | 25$ |<br>
   | frooti| illinois   |40$|<br>
