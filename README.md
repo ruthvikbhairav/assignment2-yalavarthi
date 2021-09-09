@@ -49,29 +49,28 @@ As Grace Hopper said:
 ---
 ## Code Fencing
 
-*Aho–Corasick algorithm* form *String Processing* 
+*combinatorics* form *String Processing* 
+> Combinatorics is an area of mathematics primarily concerned with counting.
+> both as a means and an end in obtaining results, and certain properties of finite structures. It is closely related most
+> to many other areas of mathematics and has many applications ranging from logic to statistical physics, from evolutionary biology to computer science, etc.
+>The full scope of combinatorics is not universally agreed upon According to H.J. Ryser, a definition of the subject is difficult because it crosses so many mathematical subdivisions
+> Insofar as an area can be described by the types of problems it addresses, combinatorics is involved in many
 
-> In computer science, the Aho–Corasick algorithm is a string-searching algorithm invented by Alfred V. Aho and Margaret J. Corasick. 
-> It is a kind of dictionary-matching algorithm that locates elements of a finite set of strings (the "dictionary") within an input text. 
-> It matches all strings simultaneously. The complexity of the algorithm is linear in the length of the strings plus the length of the searched text plus the number of output matches. 
-> Note that because all matches are found, there can be a quadratic number of matches if every substring matches (e.g. dictionary = a, aa, aaa, aaaa and input string is aaaa).
+combinatorics algorithm [Reference_link](https://en.wikipedia.org/wiki/Combinatorial_optimization)
 
-Aho–Corasick algorithm [Reference_link](https://en.wikipedia.org/wiki/Aho%E2%80%93Corasick_algorithm)
+code for combinatorics Algorithms
 
-code for Aho–Corasick Algorithms
-
-void add_string(string const& s) {
-    int v = 0;
-    for (char ch : s) {
-        int c = ch - 'a';
-        if (trie[v].next[c] == -1) {
-            trie[v].next[c] = trie.size();
-            trie.emplace_back();
-        }
-        v = trie[v].next[c];
-    }
-    trie[v].leaf = true;
-}
+function pascal_triangle(MAXN)
+    intialize a matrix dp[MAXN][MAXN] with 0
+    for i = 0 to MAXN
+        dp[i][0]=dp[0][i]=1
+    endfor
+    for i = 1 to MAXN
+        for j = 1 to MAXN
+            dp[i][j] = dp[i-1][j]+dp[i][j-1]
+        endfor
+    endfor
 
 
-Aho–Corasick algorithm [Code_link](https://cp-algorithms.com/string/aho_corasick.html)
+combinatorics algorithm [Code_link](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/tutorial/)
+
