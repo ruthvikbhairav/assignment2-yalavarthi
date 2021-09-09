@@ -60,16 +60,16 @@ combinatorics algorithm [Reference_link](https://en.wikipedia.org/wiki/Combinato
 
 code for combinatorics Algorithms
 
-function pascal_triangle(MAXN)
-    intialize a matrix dp[MAXN][MAXN] with 0<br>
-    for i = 0 to MAXN<br>
-        dp[i][0]=dp[0][i]=1<br>
-    endfor<br>
-    for i = 1 to MAXN<br>
-        for j = 1 to MAXN<br>
-            dp[i][j] = dp[i-1][j]+dp[i][j-1]<br>
-        endfor<br>
-    endfor
+function pascal_triangle(MAXN) 
+          intialize a matrix dp[MAXN][MAXN] with 0<
+          for i = 0 to MAXN 
+          dp[i][0]=dp[0][i]=1
+          endfor
+          for i = 1 to MAXN
+          for j = 1 to MAXN
+          dp[i][j] = dp[i-1][j]+dp[i][j-1]
+          endfor
+          
 
 
 combinatorics algorithm [Code_link](https://www.hackerearth.com/practice/math/combinatorics/basics-of-combinatorics/tutorial/)
