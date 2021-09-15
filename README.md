@@ -28,13 +28,15 @@ un-ordered-list
 
  *******
  food-products
- 1. the drinks are important to health<br>
- 2.  also drinks keep body clean<br>
-  | item | location | price |<br>
-  | ------| ---------|-------| <br>
-  | pepsi |  maryville | 50$ |<br>
-  | limca | new york   | 25$ |<br>
-  | frooti| illinois   |40$|<br>
+ 1. the drinks are important to health
+ 2.  also drinks keep body clean
+
+| items | location | price |
+| ------| ---------|-------| 
+| pepsi | maryville| 50$ |
+| limca | new york | 25$ |
+| frooti| illinois | 40$ |
+  
 
 *****************
 
